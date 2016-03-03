@@ -1,0 +1,19 @@
+{
+  "name": "gulp-arttemplate",
+  "version": "1.0.0",
+  "description": "artTemplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp",
+    "arttemplate"
+  ],
+  "author": "xilixinluo",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "through": "^2.3.8"
+  }
+}
